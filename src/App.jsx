@@ -4,7 +4,7 @@
 // import './App.css'
 
 //import { ToggleSwitch } from './Projects/ToggleSwitch/ToggleSwitch.jsx';
- import { Todo } from "./Projects/ToDo/Todo.jsx";
+ import { Todo } from "./ToDo/Todo.jsx";
 export const App = () => {
   return (
     // <ToggleSwitch />
