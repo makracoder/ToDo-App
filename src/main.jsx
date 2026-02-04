@@ -8,6 +8,6 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <App />
     {/* <Profile/> */}
-    <h2>jhsdgfj</h2>
+    
   </StrictMode>,
 )
