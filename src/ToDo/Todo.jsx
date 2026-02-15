@@ -81,8 +81,7 @@ export const Todo = () => {
     <section className="todo-container">
 
       <header className="header">
-        <h1>TaskFlow </h1>
-        <h3>Tod-Do List</h3>
+        <h1>TaskFlow : To-Do List </h1>
       </header>
 
       <h2 className="date-time">{dateTime}</h2>
